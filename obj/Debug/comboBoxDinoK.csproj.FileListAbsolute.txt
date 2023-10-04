@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\comboBoxDinoK\bin\Debug\comboBoxDinoK.exe.config
+C:\Users\ucenik\source\repos\comboBoxDinoK\bin\Debug\comboBoxDinoK.exe
+C:\Users\ucenik\source\repos\comboBoxDinoK\bin\Debug\comboBoxDinoK.pdb
+C:\Users\ucenik\source\repos\comboBoxDinoK\obj\Debug\comboBoxDinoK.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\comboBoxDinoK\obj\Debug\comboBoxDinoK.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\comboBoxDinoK\obj\Debug\comboBoxDinoK.Form1.resources
+C:\Users\ucenik\source\repos\comboBoxDinoK\obj\Debug\comboBoxDinoK.Properties.Resources.resources
+C:\Users\ucenik\source\repos\comboBoxDinoK\obj\Debug\comboBoxDinoK.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\comboBoxDinoK\obj\Debug\comboBoxDinoK.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\comboBoxDinoK\obj\Debug\comboBoxDinoK.exe
+C:\Users\ucenik\source\repos\comboBoxDinoK\obj\Debug\comboBoxDinoK.pdb
